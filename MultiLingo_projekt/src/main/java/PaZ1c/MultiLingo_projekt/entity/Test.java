@@ -1,4 +1,4 @@
-package PaZ1c.MultiLingo_projekt;
+package PaZ1c.MultiLingo_projekt.entity;
 
 import java.time.LocalDate;
 
